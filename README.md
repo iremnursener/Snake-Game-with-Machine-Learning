@@ -92,7 +92,8 @@ Performance improvement focuses on optimizing the learning process of the model:
 Experience Replay: Reuse of past experiences for more efficient learning.
 Epsilon Greedy Strategy: Balancing exploration and exploitation to achieve better performance.
 
-![image](https://github.com/iremnursener/Snake-Game-with-Machine-Learning/assets/119794427/1e19fa53-6668-4fdb-af0a-b143e8c3cc27)
+![image](https://github.com/iremnursener/Snake-Game-with-Machine-Learning/assets/119794427/1b6f7e32-5e6a-486f-acc2-be7ebe4eedc9)
+
 
 
 
